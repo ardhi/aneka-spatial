@@ -1,0 +1,22 @@
+{
+  "name": "aneka-spatial",
+  "version": "0.0.1",
+  "description": "Spatial functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardhi/aneka-spatial.git"
+  },
+  "author": "Ardhi Lukianto <ardhi.lukianto@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardhi/aneka-spatial/issues"
+  },
+  "homepage": "https://github.com/ardhi/aneka-spatial#readme",
+  "dependencies": {
+    "geolib": "^3.3.4"
+  }
+}
