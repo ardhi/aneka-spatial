@@ -5,6 +5,7 @@ import divideBounds from './src/divide-bounds.js'
 import dmsToDd from './src/dms-to-dd.js'
 import enlargeBounds from './src/enlarge-bounds.js'
 import getTileBounds from './src/get-tile-bounds.js'
+import getTileLocation from './src/get-tile-location.js'
 import isCoordInBounds from './src/is-coord-in-bounds.js'
 import isValidCoord from './src/is-valid-coord.js'
 import latSizeOf from './src/lat-size-of.js'
@@ -35,6 +36,7 @@ export default {
   latSizeOf,
   lngSizeOf,
   getTileBounds,
+  getTileLocation,
   divideBounds,
   isCoordInBounds,
   sanitizeBounds
