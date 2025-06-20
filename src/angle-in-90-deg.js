@@ -1,3 +1,3 @@
-export default function (modelAngle) {
-  return Math.PI / 2.0 - modelAngle
+export default function (angle) {
+  return Math.PI / 2.0 - angle
 }
